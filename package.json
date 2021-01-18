@@ -1,11 +1,11 @@
 {
-    "name": "node-mongo-jwt-refresh-tokens-api",
+    "name": "node-mongo-jwt",
     "version": "1.0.0",
     "description": "Node.js,MongoDB,jwt ",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/cornflourblue/node-mongo-jwt-refresh-tokens-api.git"
+        "url": ""
     },
     "scripts": {
         "start": "node ./server.js",
